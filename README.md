@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) eu sou Gabriel Koch.
 - 🧑‍🎓 Estudante de Ciências da Computação
-- 🧠 Conhecimento em MySQL, Linguagem C++, Canva
+- 🧠 Conhecimento em MySQL, Linguagem C++, Canva, Java
 
 
 <!---
