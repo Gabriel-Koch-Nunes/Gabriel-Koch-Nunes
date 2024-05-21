@@ -393,7 +393,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/Gabrielkoch" target="_blank"><img src="https://github.com/Gabriel-Koch-Nunes/Gabriel-Koch-Nunes/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/Gabrielkoch" target="_blank">© 2024 Aramuni</a><br />
+| Créditos: <a href="https://github.com/Gabrielkoch" target="_blank">© 2024 Koch</a><br />
 | Última atualização: 13/03/2024
 </td>
 </tr>
