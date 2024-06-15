@@ -37,7 +37,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Gabriel Koch</code>, tenho 22 anos, moro em BH. Atualmente sou <code>aluno</code> no curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> .
+<i><b>Olá</b> :wave:, sou o <code>Gabriel Koch</code>, tenho 22 anos, moro em BH. Atualmente sou <code>aluno</code> no curso de Ciência da Computação na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> .
 </div>
 
 -----
@@ -334,15 +334,6 @@
 </div>
 
 <div align="center">
-
-```text
- █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
-███████║██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║██║
-██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```                                        
 
 </div>
 <div>
